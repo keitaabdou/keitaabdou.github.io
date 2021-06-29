@@ -72,7 +72,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 px-8 pl-lg-0 pb-5 pb-lg-4 about-img">
-                    <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/" alt="">
+                    <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/profil_1.jpeg" alt="">
                 </div>
             </div>
         </div>
