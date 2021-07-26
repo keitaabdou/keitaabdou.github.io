@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="utf-8">
     <title>PortFolio | keita Abdou Karim</title>
@@ -64,7 +65,7 @@
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
                     <div class="typed-text d-none">Développeur Web, Développeur Mobile, Web Designer</div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                        <a href="" class="btn btn-white mr-4">Télécharger mon CV</a>
+                        <a href="img/CV_KEITA_ABDOU_KARIM.pdf" target="_blank" download class="btn btn-white cv-mon mr-4">Télécharger mon CV</a>
 
                         
                         
@@ -72,7 +73,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 px-8 pl-lg-0 pb-5 pb-lg-4 about-img">
-                    <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/profil_1.jpeg" alt="">
+                    <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/profil_1.jpeg" alt="" style="height: 570px;">
                 </div>
             </div>
         </div>
@@ -87,10 +88,10 @@
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-5 pb-4 pb-lg-0">
-                    <img class="img-fluid rounded w-100" src="img/" alt="">
+                    <img class="img-fluid rounded w-100 py-5" src="img/profil.jpeg" alt="">
                 </div>
                 <div class="col-lg-7">
-                    <h3 class="mb-4">Développeur Web & Mobile, Web Designer</h3>
+                    <h3 class="mb-4">Développeur Web & Mobile</h3>
                     <p>Hello! Je suis un développeur Web mobile. Passionné par la réalisation et le développement des projets Web et Mobile, je suis en mesure de concevoir et développer un site web ou mobile en intégrant les recommandations de sécurité.</p>
                     <div class="row mb-3">
                         <div class="col-sm-6 py-2"><h6>Nom: <span class="text-secondary">Abdou Karim Keita</span></h6></div>
