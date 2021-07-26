@@ -189,7 +189,7 @@
                         </div>
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -35px;  font-size: 22px;"></i>
-                            <h5 class="font-weight-bold mb-1">Licence 3 (Informatique & Sciences du Numerique)</h5>
+                            <h5 class="font-weight-bold mb-1">Licence (Informatique & Sciences du Numerique)</h5>
                             <p class="mb-2"><strong>Univeristé virtuelle de côte d'ivoire</strong> | <small>2018 - 2019</small></p>
                             <p>Obtention de la licence (Développement d'Application et E-Services)</p>
                         </div>
@@ -208,7 +208,7 @@
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                             <h5 class="font-weight-bold mb-1">Stagiaire developper web & mobile</h5>
                             <p class="mb-2"><strong>Ivoire Geek School</strong> | <small> 2020 - 2021</small></p>
-                            <p>Chargé de concevoir une application web d'offre d'emploi  (Conception de la  partie postuler à un offre qui se trouve sur le dashboard du candidat, puis coté admin j'etais charger de concevoire "Le module Utilisateurs")</p>
+                            <p>Participation à 1 Projet de Conception de site Web d’offre d’emploi avec Laravel</p>
                         </div>
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
@@ -247,13 +247,13 @@
                     </div>
                     <p>Je suis en mesure de concevoir une application mobile sécuriser en intégrant toutes les fonctionnalités techniques sur mesure ou adapter des solutions techniques existantes en fonction du projet et de la demande du client.</p>
                 </div>
-                <div class="service-box col-lg-3 col-md-6 text-center mb-5">
+                <!-- <div class="service-box col-lg-3 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fa fa-2x fa-laptop-code service-icon bg-primary text-white mr-3"></i>
                         <h4 class="font-weight-bold m-0">Web design </h4>
                     </div>
                     <p>Web Design Responsive avec mise a jour( html, css, javascript, tailwindcss, bootstrap, animate)</p>
-                </div>
+                </div> -->
                 <!-- <div class="service-box col-lg-4 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fab fa-2x fa-apple service-icon bg-primary text-white mr-3"></i>
