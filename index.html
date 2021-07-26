@@ -231,7 +231,7 @@
             <div class="service-h4 position-relative d-flex align-items-center justify-content-center">
                 <h1 class="text-uppercase text-primary mb-5">Mes Services</h1>
             </div>
-            <div class="row pb-3">
+            <div class="row pb-3 justify-content-center">
                 <div class="service-box col-lg-4 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fa fa-2x fa-laptop-code service-icon bg-primary text-white mr-3"></i>
