@@ -132,19 +132,18 @@
            </div>
 
            <div class="row">
-            <div class="col-md-6 text-center mb-2 shadow-lg">
-                <img src="img/javascript.jpg" alt="" style="height: 80px;">
-                <h3>JAVASCRIPT</h3>
-                <p>Applications et sites web dynamiques, Validation des formulaires, animations des pages etc..</p>
-           </div>
-            <div class="col-md-6 mb-2 text-center shadow-lg " >
-                <img src="img/logo-react-js.png" alt="" style="height: 80px; ">
-                <h3 class="">React Js</h3>
-                <p>>Concevoir le Front-End d'une Application </p>
+                <div class="col-md-6 text-center mb-2 shadow-lg">
+                    <img src="img/javascript.jpg" alt="" style="height: 80px;">
+                    <h3>JAVASCRIPT</h3>
+                    <p>Applications et sites web dynamiques, Validation des formulaires, animations des pages etc..</p>
+                </div>
+                <div class="col-md-6 mb-2 text-center shadow-lg " >
+                    <img src="img/logo-react-js.png" alt="" style="height: 80px; ">
+                    <h3 class="">React Js</h3>
+                    <p>Concevoir le Front-End d'une Application </p>
+                </div>
             </div>
-        </div>
 
-           </div>
            <div class="row">
                 <div class="col-md-6 mb-2 text-center shadow-lg " >
                     <img src="img/mysql.png" alt="" style="height: 80px; ">
