@@ -187,7 +187,7 @@
     <div class="container-fluid py-5" id="qualification">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
-                <h1 class="text-uppercase text-primary mb-5">Education & Experience</h1>
+                <h1 class="text-uppercase text-primary mb-5">Education & Experiences</h1>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-6">
