@@ -42,7 +42,7 @@
                 <a href="#home" class="nav-item nav-link active">Accueil</a>
                 <a href="#about" class="nav-item nav-link">À propos</a>
                 <a href="#qualification" class="nav-item nav-link">Qualité</a>
-                <a href="#skill" class="nav-item nav-link">Compétence</a>
+                <a href="#skill" class="nav-item nav-link">Compétences</a>
                 <a href="#service" class="nav-item nav-link">Services</a>
                 <a href="#portfolio" class="nav-item nav-link">Projets</a>
                 <a href="#contact" class="nav-item nav-link">Contact</a>
@@ -63,7 +63,7 @@
                     <h3 class="text-white font-weight-normal mb-3">Bonjour, je suis</h3>
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 4px #ffffff;">Abdou Karim keita</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                    <div class="typed-text d-none">Développeur Web, Développeur Mobile, Web Designer</div>
+                    <div class="typed-text d-none">Développeur Web, Web Designer</div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
                         <a href="img/CV_KEITA_ABDOU_KARIM.pdf" target="_blank" download class="btn btn-white cv-mon mr-4">Télécharger mon CV</a>
 
@@ -91,12 +91,10 @@
                     <img class="img-fluid rounded w-100 py-5" src="img/profil.jpeg" alt="">
                 </div>
                 <div class="col-lg-7">
-                    <h3 class="mb-4">Développeur Web & Mobile</h3>
-                    <p>Hello! Je suis un développeur Web mobile. Passionné par la réalisation et le développement des projets Web et Mobile, je suis en mesure de concevoir et développer un site web ou mobile en intégrant les recommandations de sécurité.</p>
+                    <h3 class="mb-4">Développeur Web & Web Designer</h3>
+                    <p>Hello! Je suis un développeur Web & Web Designer. Passionné par la réalisation et le développement des projets Web & Web Designer, je suis en mesure de concevoir et développer un site web en intégrant les recommandations de sécurité.</p>
                     <div class="row mb-3">
                         <div class="col-sm-6 py-2"><h6>Nom: <span class="text-secondary">Abdou Karim Keita</span></h6></div>
-                        <div class="col-sm-6 py-2"><h6>Date d'anniversaire: <span class="text-secondary">1 April 1990</span></h6></div>
-                        <div class="col-sm-6 py-2"><h6>Experience: <span class="text-secondary">7 mois</span></h6></div>
                         <div class="col-sm-6"><h6>Téléphone: <span class="text-secondary">+255 01 536 565 85 / 07 099 092 90</span></h6></div>
                         <div class="col-sm-6 py-2"><h6>Email: <span class="text-secondary">abdou.keita@uvci.edu.ci</span></h6></div>
                         <div class="col-sm-6 py-2"><h6>Adresse: <span class="text-secondary">Cocody, Riviera 2</span></h6></div>
@@ -189,7 +187,7 @@
     <div class="container-fluid py-5" id="qualification">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
-                <h1 class="text-uppercase text-primary mb-5">Education & Expericence</h1>
+                <h1 class="text-uppercase text-primary mb-5">Education & Experience</h1>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -216,7 +214,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h3 class="mb-4">Expericences</h3>
+                    <h3 class="mb-4">Experiences</h3>
                     <div class="border-left border-primary pt-2 pl-4 ml-2">
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
@@ -254,12 +252,12 @@
                     
                 </div>
                
-                <div class="service-box col-lg-4 col-md-6 text-center mb-5">
+                <!-- <div class="service-box col-lg-4 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fab fa-2x fa-android service-icon bg-primary text-white mr-3"></i>
                         <h4 class="font-weight-bold m-0">Developpement Mobile</h4>
                     </div>
-                </div>
+                </div> -->
                 <!-- <div class="service-box col-lg-3 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fa fa-2x fa-laptop-code service-icon bg-primary text-white mr-3"></i>
