@@ -312,7 +312,7 @@
                         <p>Framework utilisé : <span style="color: #1c5ce6;">Laravel</span></p>
                       </p>
                       <div class="text-center">
-                        <a  href="https://app-standardix.herokuapp.com/" target="_blanck" class="btn btn-outline-primary ">Voir le site</a>
+                        <a  href="https://standardix.ci/" target="_blanck" class="btn btn-outline-primary ">Voir le site</a>
                       </div>
                     </div>
                   </div>
