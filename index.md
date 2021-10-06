@@ -179,6 +179,19 @@
                     <p>Maquettage,prototypage de site web et Application mobile.</p>
                 </div>
             </div>  
+
+            <div class="row">
+                <div class="col-md-6 text-center mb-2 shadow-lg">
+                    <img src="img/canva.png" alt="" style="height: 80px;">
+                    <h3>CANVA</h3>
+                    <p>Plate-forme de conception graphique;</p>
+                </div>
+                <div class="col-md-6 text-center mb-2 shadow-lg">
+                    <img src="img/premier.png" alt="" style="height: 80px;">
+                    <h3>ADOBE PREMIERE PRO CC</h3>
+                    <p>Logiciel de montage vidéo.</p>
+                </div>
+            </div>  
         </div>
     </div>
     <!-- Skill End -->
