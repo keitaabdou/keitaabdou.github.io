@@ -67,7 +67,7 @@
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
                         <a href="img/CV_KEITA_ABDOU_KARIM.pdf" target="_blank" download class="btn btn-white cv-mon mr-4">Télécharger mon CV</a>
 
-                        
+                       
                         
                         <!-- <a href="" class="btn btn-blue d-none d-sm-block">Play Video</a> -->
                     </div>
@@ -218,6 +218,12 @@
                     <div class="border-left border-primary pt-2 pl-4 ml-2">
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
+                            <h5 class="font-weight-bold mb-1">Assistant multimédia marketing</h5>
+                            <p class="mb-2"><strong>CABINET AMP </strong> | <small> Sept - 2021</small></p>
+                            <p>Chargé de concevoir les sites web et montage vidéo du Cabinet AMP</p>
+                        </div>
+                        <div class="position-relative ex-me mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                             <h5 class="font-weight-bold mb-1">Stagiaire developper web & mobile</h5>
                             <p class="mb-2"><strong>Ivoire Geek School</strong> | <small> 2020 - 2021</small></p>
                             <p>Participation à 1 Projet de Conception de site Web d’offre d’emploi avec Laravel</p>
@@ -261,7 +267,7 @@
                 <div class="service-box col-lg-3 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fa fa-2x fa-laptop-code service-icon bg-primary text-white mr-3"></i>
-                        <h4 class="font-weight-bold m-0">Web design </h4>
+                        <h4 class="font-weight-bold m-0">Web design</h4>
                     </div>
                     <!-- <p>Web Design Responsive avec mise a jour( html, css, javascript, tailwindcss, bootstrap, animate)</p> -->
                 </div>
@@ -316,16 +322,19 @@
                       </div>
                     </div>
                   </div>
-                  <!-- <div class="card mr-3 mb-3  shadow-lg" style="width: 18rem;">
-                    <img src="img/work1.jpg" class="card-img-top" alt="...">
+                  <div class="card mr-3 mb-3  shadow-lg" style="width: 18rem;">
+                    <img src="img/projet_2.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                      <h5 class="card-title text-center">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <h5 class="card-title text-center">Site Web E-commerce</h5>
+                      <p class="card-text">
+                        <p class="mb-0">Client : <span style="color: #1c5ce6;">Peau et Pureté</span></p>
+                        <p class="mb-0">Techno utilisé : <span style="color: #1c5ce6;">CMS WORDPRESS</span></p>
+                      </p>                      
                       <div class="text-center">
-                        <a  href="#" class="btn btn-outline-primary ">Voir le site</a>
+                        <a  href="https://peauetpurete.com/" target="_blanck" class="btn btn-outline-primary ">Voir le site</a>
                       </div>
                     </div>
-                  </div> -->
+                  </div> 
                   <!-- <div class="card mr-3 mb-3  shadow-lg" style="width: 18rem;">
                     <img src="img/work1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
