@@ -63,7 +63,7 @@
                     <h3 class="text-white font-weight-normal mb-3">Bonjour, je suis</h3>
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 4px #ffffff;">Abdou Karim keita</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                    <div class="typed-text d-none">Développeur Web, Web Designer</div>
+                    <div class="typed-text d-none">Développeur Web</div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
                         <a href="img/CV_KEITA_ABDOU_KARIM.pdf" target="_blank" download class="btn btn-white cv-mon mr-4">Télécharger mon CV</a>
 
@@ -91,8 +91,8 @@
                     <img class="img-fluid rounded w-100 py-5" src="img/profil.jpeg" alt="">
                 </div>
                 <div class="col-lg-7">
-                    <h3 class="mb-4">Développeur Web & Web Designer</h3>
-                    <p>Hello! Je suis un développeur Web & Web Designer. Passionné par la réalisation et le développement des projets Web & Web Designer, je suis en mesure de concevoir et développer un site web en intégrant les recommandations de sécurité.</p>
+                    <h3 class="mb-4">Développeur Web</h3>
+                    <p>Hello! Je suis un développeur Web. Passionné par la réalisation et le développement des projets Web & Web Designer, je suis en mesure de concevoir et développer un site web en intégrant les recommandations de sécurité.</p>
                     <div class="row mb-3">
                         <div class="col-sm-6 py-2"><h6>Nom: <span class="text-secondary">Abdou Karim Keita</span></h6></div>
                         <div class="col-sm-6"><h6>Téléphone: <span class="text-secondary">+255 01 536 565 85 / 07 099 092 90</span></h6></div>
@@ -135,11 +135,11 @@
                     <h3>JAVASCRIPT</h3>
                     <p>Applications et sites web dynamiques, Validation des formulaires, animations des pages etc..</p>
                 </div>
-                <div class="col-md-6 mb-2 text-center shadow-lg " >
+                <!--<div class="col-md-6 mb-2 text-center shadow-lg " >
                     <img src="img/logo-react-js.png" alt="" style="height: 80px; ">
                     <h3 class="">React Js</h3>
                     <p>Concevoir le Front-End d'une Application </p>
-                </div>
+                </div>-->
             </div>
 
            <div class="row">
@@ -237,15 +237,15 @@
                         </div>
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
-                            <h5 class="font-weight-bold mb-1">Stagiaire developper web & mobile</h5>
-                            <p class="mb-2"><strong>Ivoire Geek School</strong> | <small> 2020 - 2021</small></p>
+                            <h5 class="font-weight-bold mb-1">Stagiaire developper web</h5>
+                            <p class="mb-2"><strong>Ivoire Geek School</strong> | <small> Nov 2020 – Juin 2021</small></p>
                             <p>Participation à 1 Projet de Conception de site Web d’offre d’emploi avec Laravel</p>
                         </div>
                         <div class="position-relative ex-me mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px;left: -35px;  font-size: 22px;"></i>
                             <h5 class="font-weight-bold mb-1">Tuteur</h5>
-                            <p class="mb-2"><strong>Univeristé virtuelle de côte d'ivoire</strong> | <small>2019 - 2020</small></p>
-                            <p>Stage (6 mois) au sein de l’université virtuelle de côte d’ivoire en tant que tuteurs.</p>
+                            <p class="mb-2"><strong>Univeristé virtuelle de côte d'ivoire</strong> | <small>Nov. 2019 – Sept 2021</small></p>
+                            <p>Stagiaire sein de l’université virtuelle de côte d’ivoire en tant que tuteurs.</p>
                         </div>
                     </div>
                 </div>
@@ -277,11 +277,11 @@
                         <h4 class="font-weight-bold m-0">Developpement Mobile</h4>
                     </div>
                 </div> -->
-                <div class="service-box col-lg-3 col-md-6 text-center mb-5">
+                <!--<div class="service-box col-lg-3 col-md-6 text-center mb-5">
                     <div class="d-flex align-items-center justify-content-center mb-4">
                         <i class="fa fa-2x fa-laptop-code service-icon bg-primary text-white mr-3"></i>
-                        <h4 class="font-weight-bold m-0">Web design</h4>
-                    </div>
+                        <h4 class="font-weight-bold m-0"></h4>
+                    </div>-->
                     <!-- <p>Web Design Responsive avec mise a jour( html, css, javascript, tailwindcss, bootstrap, animate)</p> -->
                 </div>
                 <!-- <div class="service-box col-lg-4 col-md-6 text-center mb-5">
@@ -348,6 +348,45 @@
                       </div>
                     </div>
                   </div> 
+                  <div class="card mr-3 mb-3  shadow-lg" style="width: 18rem;">
+                    <img src="img/projet_3.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center">Site Web E-commerce</h5>
+                      <p class="card-text">
+                        <p class="mb-0">Client : <span style="color: #1c5ce6;">Nanya </span></p>
+                        <p class="mb-0">Techno utilisé : <span style="color: #1c5ce6;">CMS WORDPRESS</span></p>
+                      </p>                      
+                      <div class="text-center">
+                        <a  href="https://nanyabeauty.com/" target="_blanck" class="btn btn-outline-primary ">Voir le site</a>
+                      </div>
+                    </div>
+                  </div> 
+                  <div class="card mr-3 mb-3  shadow-lg" style="width: 18rem;">
+                    <img src="img/projet_4.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center">Blog de Conseil en Entrepreneuriat et Marketing</h5>
+                      <p class="card-text">
+                        <p class="mb-0">Client : <span style="color: #1c5ce6;">Cabinet Amp </span></p>
+                        <p class="mb-0">Techno utilisé : <span style="color: #1c5ce6;">CMS WORDPRESS</span></p>
+                      </p>                      
+                      <div class="text-center">
+                        <a  href="https://marketing-pratique.com/" target="_blanck" class="btn btn-outline-primary ">Voir le site</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card mr-3 mb-3  shadow-lg" style="width: 18rem;">
+                    <img src="img/projet_2.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title text-center">Blog de Conseil en Entrepreneuriat et Marketing</h5>
+                      <p class="card-text">
+                        <p class="mb-0">Client : <span style="color: #1c5ce6;">Cabinet Amp </span></p>
+                        <p class="mb-0">Techno utilisé : <span style="color: #1c5ce6;">CMS WORDPRESS</span></p>
+                      </p>                      
+                      <div class="text-center">
+                        <a  href="https://marketing-pratique.com/" target="_blanck" class="btn btn-outline-primary ">Voir le site</a>
+                      </div>
+                    </div>
+                  </div>
                   <!-- <div class="card mr-3 mb-3  shadow-lg" style="width: 18rem;">
                     <img src="img/work1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -362,6 +401,54 @@
         </div>
     </div>
     <!-- Portfolio End -->
+
+      <!-- Certificat-->
+      <div class="container-fluid py-5" id="skill">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="text-uppercase text-primary mb-5">Mes compétences</h1>
+            </div>
+           <div class="row">
+               <div class="col-md-6 mb-2 text-center shadow-lg " >
+                   <img src="img/certificat/mysql.jpg" alt="" style="height: 80px; ">
+                   <h3 class="">Administrez vos bases de données avec mysql</h3>
+               </div>
+
+               <div class="col-md-6 text-center mb-2 shadow-lg">
+                    <img src="img/certificat/HTML5.jpg" alt="" style="height: 80px;">
+                    <h3>Apprenez à créer votre site web avec HTML5 et CSS3</h3>
+               </div>
+           </div>
+
+           <div class="row">
+                <div class="col-md-6 mb-2 text-center shadow-lg " >
+                    <img src="img/certificat/Ux.jpg" alt="" style="height: 80px; ">
+                    <h3 class="">Appropriez-vous la démarche UX en pratique</h3>
+                </div>
+
+                <div class="col-md-6 text-center mb-2 shadow-lg">
+                    <img src="img/certificat/fond.jpg" alt="" style="height: 80px;">
+                    <h3>Ux design: Découvrez les fondamentaux</h3>
+                </div>
+            </div>   
+            <div class="row">
+                <div class="col-md-6 mb-2 text-center shadow-lg " >
+                    <img src="img/certificat/bootstrap.jpg" alt="" style="height: 80px; ">
+                    <h3 class="">Prenez en main bootstrap</h3>
+                </div>
+    
+                <div class="col-md-6 text-center mb-2 shadow-lg">
+                     <img src="img/certificat/adobe.jpg" alt="" style="height: 80px;">
+                     <h3>Réalisez vos maquette d'une application modile avec Adobe Xd</h3>
+                </div>
+            </div>
+            <!--lien montage video-->
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="text-uppercase text-primary mb-5">Mes montage video</h1>
+            </div>
+        </div>
+    </div>
+    <!-- Certificat -->
 
     <!-- Contact Start -->
     <div class="container-fluid py-5" id="contact">
