@@ -410,24 +410,24 @@
             </div>
            <div class="row">
                <div class="col-md-12 mb-2 text-center shadow-lg " >
-                   <img src="img/certificat/mysql.jpg" alt="" style="height: 200px; weight:200px;">
+                   <img src="img/certificat/mysql.jpg" alt="" style="height: 150px; weight:150px;">
                    <h3 class="">Administrez vos bases de données avec mysql</h3>
                </div>
 
                <div class="text-center mb-2 shadow-lg">
-                    <img src="img/certificat/HTML5.jpg" alt="" style="height: 200px; weight:200px;">
+                    <img src="img/certificat/HTML5.jpg" alt="" style="height: 150px; weight:150px;">
                     <h3>Apprenez à créer votre site web avec HTML5 et CSS3</h3>
                </div>
            </div>
 
            <div class="row">
                 <div class="col-md-12 mb-2 text-center shadow-lg " >
-                    <img src="img/certificat/Ux.jpg" alt="" style="height: 200px; weight:200px;">
+                    <img src="img/certificat/Ux.jpg" alt="" style="height: 150px; weight:150px;">
                     <h3 class="">Appropriez-vous la démarche UX en pratique</h3>
                 </div>
 
                 <div class="col-md-6 text-center mb-2 shadow-lg">
-                    <img src="img/certificat/fond.jpg" alt="" style="height: 200px; weight:200px;">
+                    <img src="img/certificat/fond.jpg" alt="" style="height: 150px; weight:150px;">
                     <h3>Ux design: Découvrez les fondamentaux</h3>
                 </div>
             </div>   
