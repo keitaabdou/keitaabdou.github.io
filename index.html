@@ -409,7 +409,7 @@
                 <h1 class="text-uppercase text-primary mb-5">Mes compétences</h1>
             </div>
            <div class="row">
-               <div class="col-md-12 mb-2 text-center shadow-lg " >
+               <div class="col-md-6 mb-2 text-center shadow-lg " >
                    <img src="img/certificat/mysql.jpg" alt="" style="height: 150px; weight:150px;">
                    <h3 class="">Administrez vos bases de données avec mysql</h3>
                </div>
@@ -421,7 +421,7 @@
            </div>
 
            <div class="row">
-                <div class="col-md-12 mb-2 text-center shadow-lg " >
+                <div class="col-md-6 mb-2 text-center shadow-lg " >
                     <img src="img/certificat/Ux.jpg" alt="" style="height: 150px; weight:150px;">
                     <h3 class="">Appropriez-vous la démarche UX en pratique</h3>
                 </div>
@@ -433,12 +433,12 @@
             </div>   
             <div class="row">
                 <div class="col-md-6 mb-2 text-center shadow-lg " >
-                    <img src="img/certificat/bootstrap.jpg" alt="" style="height: 80px; ">
+                    <img src="img/certificat/bootstrap.jpg" alt="" style="height: 150px; weight:150px;">
                     <h3 class="">Prenez en main bootstrap</h3>
                 </div>
     
                 <div class="col-md-6 text-center mb-2 shadow-lg">
-                     <img src="img/certificat/adobe.jpg" alt="" style="height: 80px;">
+                     <img src="img/certificat/adobe.jpg" alt="" style="height: 150px; weight:150px;">
                      <h3>Réalisez vos maquette d'une application modile avec Adobe Xd</h3>
                 </div>
             </div>
