@@ -414,7 +414,7 @@
                    <h3 class="">Administrez vos bases de données avec mysql</h3>
                </div>
 
-               <div class="text-center mb-2 shadow-lg">
+               <div class="col-md-6  text-center mb-2 shadow-lg">
                     <img src="img/certificat/HTML5.jpg" alt="" style="height: 150px; weight:150px;">
                     <h3>Apprenez à créer votre site web avec HTML5 et CSS3</h3>
                </div>
